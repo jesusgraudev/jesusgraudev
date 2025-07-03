@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=225&color=f16514&text=Jesús%20Grau&section=header&reversal=true&textBg=false&fontAlign=50&fontAlignY=42&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=225&color=f16514&text=Frontend%20Developer&section=header&reversal=true&textBg=false&fontAlign=50&fontAlignY=42&fontColor=ffffff)
 
 <!-- Presentación -->
 <h1 align="center"><strong>Hi there 👋 I'm Jesus Grau</strong><br></h1>
