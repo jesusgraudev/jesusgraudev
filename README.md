@@ -51,6 +51,12 @@ Soon you'll see mini-projects and practice exercises here.
 
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [jesusgraudev/jesusgraudev.gihub.io](https://github.com/jesusgraudev/jesusgraudev.gihub.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [jesusgraudev/jesusgraudev.gihub.io](https://github.com/jesusgraudev/jesusgraudev.gihub.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [jesusgraudev/jesusgraudev.gihub.io](https://github.com/jesusgraudev/jesusgraudev.gihub.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [jesusgraudev/jesusgraudev.gihub.io](https://github.com/jesusgraudev/jesusgraudev.gihub.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [jesusgraudev/jesusgraudev.gihub.io](https://github.com/jesusgraudev/jesusgraudev.gihub.io)<br>
+<!--RECENT_ACTIVITY:end-->
 
 <!--END_SECTION:activity-->
 
