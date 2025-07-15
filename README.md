@@ -49,6 +49,13 @@ Soon you'll see mini-projects and practice exercises here.
 
 ---
 
+### :zap: Actividad Reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
