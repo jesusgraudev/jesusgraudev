@@ -52,10 +52,10 @@ Soon you'll see mini-projects and practice exercises here.
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [jesusgraudev/CloneLATAMPractica](https://github.com/jesusgraudev/CloneLATAMPractica)<br>
-2. 📔 Created new repository [jesusgraudev/CloneLATAMPractica](https://github.com/jesusgraudev/CloneLATAMPractica)<br>
-3. ⬆️ Pushed 2 commit(s) to [jesusgraudev/ProyectodePractica](https://github.com/jesusgraudev/ProyectodePractica)<br>
-4. 🎉 Merged PR [#3](https://github.com/jesusgraudev/ProyectodePractica/pull/3) in [jesusgraudev/ProyectodePractica](https://github.com/jesusgraudev/ProyectodePractica)<br>
-5. 💪 Opened PR [#3](https://github.com/jesusgraudev/ProyectodePractica/pull/3) in [jesusgraudev/ProyectodePractica](https://github.com/jesusgraudev/ProyectodePractica)<br>
+2. ⬆️ Pushed 1 commit(s) to [jesusgraudev/CloneLATAMPractica](https://github.com/jesusgraudev/CloneLATAMPractica)<br>
+3. 📔 Created new repository [jesusgraudev/CloneLATAMPractica](https://github.com/jesusgraudev/CloneLATAMPractica)<br>
+4. ⬆️ Pushed 2 commit(s) to [jesusgraudev/ProyectodePractica](https://github.com/jesusgraudev/ProyectodePractica)<br>
+5. 🎉 Merged PR [#3](https://github.com/jesusgraudev/ProyectodePractica/pull/3) in [jesusgraudev/ProyectodePractica](https://github.com/jesusgraudev/ProyectodePractica)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--END_SECTION:activity-->
