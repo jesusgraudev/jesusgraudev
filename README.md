@@ -51,11 +51,11 @@ Soon you'll see mini-projects and practice exercises here.
 
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [jesusgraudev/CloneLATAMPractica](https://github.com/jesusgraudev/CloneLATAMPractica)<br>
-2. 🎉 Merged PR [#1](https://github.com/jesusgraudev/CloneLATAMPractica/pull/1) in [jesusgraudev/CloneLATAMPractica](https://github.com/jesusgraudev/CloneLATAMPractica)<br>
-3. 💪 Opened PR [#1](https://github.com/jesusgraudev/CloneLATAMPractica/pull/1) in [jesusgraudev/CloneLATAMPractica](https://github.com/jesusgraudev/CloneLATAMPractica)<br>
-4. ⬆️ Pushed 1 commit(s) to [jesusgraudev/CloneLATAMPractica](https://github.com/jesusgraudev/CloneLATAMPractica)<br>
-5. ⬆️ Pushed 1 commit(s) to [jesusgraudev/CloneLATAMPractica](https://github.com/jesusgraudev/CloneLATAMPractica)<br>
+1. ⬆️ Pushed 1 commit(s) to [jesusgraudev/Proyecto-Pokedex](https://github.com/jesusgraudev/Proyecto-Pokedex)<br>
+2. ⬆️ Pushed 1 commit(s) to [jesusgraudev/Proyecto-Pokedex](https://github.com/jesusgraudev/Proyecto-Pokedex)<br>
+3. ⭐ Starred [jesusgraudev/Proyecto-Pokedex](https://github.com/jesusgraudev/Proyecto-Pokedex)<br>
+4. 📔 Created new repository [jesusgraudev/Proyecto-Pokedex](https://github.com/jesusgraudev/Proyecto-Pokedex)<br>
+5. 📔 Created new repository [jesusgraudev/Proyecto-Pokedex](https://github.com/jesusgraudev/Proyecto-Pokedex)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--END_SECTION:activity-->
