@@ -51,11 +51,11 @@ Soon you'll see mini-projects and practice exercises here.
 
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jesusgraudev/Proyecto-Pokedex](https://github.com/jesusgraudev/Proyecto-Pokedex)<br>
-2. ⬆️ Pushed 1 commit(s) to [jesusgraudev/Proyecto-Pokedex](https://github.com/jesusgraudev/Proyecto-Pokedex)<br>
-3. ⭐ Starred [jesusgraudev/Proyecto-Pokedex](https://github.com/jesusgraudev/Proyecto-Pokedex)<br>
-4. 📔 Created new repository [jesusgraudev/Proyecto-Pokedex](https://github.com/jesusgraudev/Proyecto-Pokedex)<br>
-5. 📔 Created new repository [jesusgraudev/Proyecto-Pokedex](https://github.com/jesusgraudev/Proyecto-Pokedex)<br>
+1. ⬆️ Pushed 2 commit(s) to [jesusgraudev/SofyTask-ToDoProject](https://github.com/jesusgraudev/SofyTask-ToDoProject)<br>
+2. 🎉 Merged PR [#1](https://github.com/jesusgraudev/SofyTask-ToDoProject/pull/1) in [jesusgraudev/SofyTask-ToDoProject](https://github.com/jesusgraudev/SofyTask-ToDoProject)<br>
+3. 💪 Opened PR [#1](https://github.com/jesusgraudev/SofyTask-ToDoProject/pull/1) in [jesusgraudev/SofyTask-ToDoProject](https://github.com/jesusgraudev/SofyTask-ToDoProject)<br>
+4. ⭐ Starred [jesusgraudev/SofyTask-ToDoProject](https://github.com/jesusgraudev/SofyTask-ToDoProject)<br>
+5. 📔 Created new repository [jesusgraudev/SofyTask-ToDoProject](https://github.com/jesusgraudev/SofyTask-ToDoProject)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--END_SECTION:activity-->
