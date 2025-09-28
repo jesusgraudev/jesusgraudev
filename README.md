@@ -51,11 +51,6 @@ Soon you'll see mini-projects and practice exercises here.
 
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [jesusgraudev/SofyTask-ToDoProject](https://github.com/jesusgraudev/SofyTask-ToDoProject)<br>
-2. 🎉 Merged PR [#4](https://github.com/jesusgraudev/SofyTask-ToDoProject/pull/4) in [jesusgraudev/SofyTask-ToDoProject](https://github.com/jesusgraudev/SofyTask-ToDoProject)<br>
-3. 💪 Opened PR [#4](https://github.com/jesusgraudev/SofyTask-ToDoProject/pull/4) in [jesusgraudev/SofyTask-ToDoProject](https://github.com/jesusgraudev/SofyTask-ToDoProject)<br>
-4. ⬆️ Pushed 1 commit(s) to [jesusgraudev/SofyTask-ToDoProject](https://github.com/jesusgraudev/SofyTask-ToDoProject)<br>
-5. ❌ Closed PR [#3](https://github.com/jesusgraudev/SofyTask-ToDoProject/pull/3) in [jesusgraudev/SofyTask-ToDoProject](https://github.com/jesusgraudev/SofyTask-ToDoProject)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--END_SECTION:activity-->
